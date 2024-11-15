@@ -1,0 +1,44 @@
+[
+    {
+        "task_id": 1,
+        "title": "Complete Project Documentation",
+        "description": "Finalize and submit project documentation by EOD",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "task_id": 2,
+        "title": "Code Review",
+        "description": "Review the new feature implementation",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "task_id": 3,
+        "title": "Team Meeting",
+        "description": "Attend the weekly team meeting to discuss project progress",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "task_id": 4,
+        "title": "Email Response",
+        "description": "Reply to client emails and address their concerns",
+        "priority": "Low",
+        "status": "Pending"
+    },
+    {
+        "task_id": 5,
+        "title": "Prepare Presentation",
+        "description": "Prepare slides for the upcoming presentation to the stakeholders.",
+        "priority": "Medium",
+        "status": "Pending"
+    },
+    {
+        "task_id": 6,
+        "title": "Plan Sprint",
+        "description": "Plan the tasks and goals for the upcoming sprint with the team.",
+        "priority": "High",
+        "status": "Pending"
+    }
+]
